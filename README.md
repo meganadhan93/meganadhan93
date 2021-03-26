@@ -8,3 +8,5 @@
 meganadhan93/meganadhan93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Board Status](https://dev.azure.com/meganadhan/0641d62d-3713-4e4c-9497-8a34585be01b/93e24330-aee5-4abf-84f3-fb56574cb15e/_apis/work/boardbadge/88361321-4dac-4400-a2e2-c908b29f4386?columnOptions=1)](https://dev.azure.com/meganadhan/0641d62d-3713-4e4c-9497-8a34585be01b/_boards/board/t/93e24330-aee5-4abf-84f3-fb56574cb15e/Microsoft.RequirementCategory/)
